@@ -13,6 +13,19 @@
                 "name": "okayama staion"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.919519,
+                    34.665754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "ももたろう"
+            },
+            "type": "Feature"
         }
     ]
 }
