@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.665874,
+                    133.918656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "okayama staion"
+            },
+            "type": "Feature"
+        }
+    ]
+}
