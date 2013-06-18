@@ -26,6 +26,19 @@
                 "name": "ももたろう"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.919769,
+                    34.665539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Okayama 岡山駅"
+            },
+            "type": "Feature"
         }
     ]
 }
